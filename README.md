@@ -1,17 +1,44 @@
 # Christopher Ongko (王新福)
 
-Research engineer. I build research data systems, verification tools and the pipelines under them, and publish the studies. Based in Taiwan, available from March 2027.
+Research engineer building research data systems, Python APIs and applied AI tools.
+My work connects software engineering with empirical finance and research.
+Based in Taiwan; available from March 2027, April negotiable.
 
-- Built the data-procurement side of a research data desk for a Yuan Ze finance faculty: it searches data catalogs and the open web for what a researcher needs, checks that a source can really be downloaded, and collects it only after a person approves.
-- Specialised in systems for fragmented evidence: tools that work out what scattered records mean and build the method into reusable components, so the same approach carries across datasets, sources and projects.
-- Academic: five SSRN working papers (as Xin-Fu Wang), two accepted at conferences; MSc Finance and Accounting, Yuan Ze University (expected January 2027).
+- Built the data-procurement side of a research data desk for a finance faculty
+  at Yuan Ze University: source search, download checks, approval, collection
+  and registration, with a React interface, REST API and MCP interface.
+- Across my projects, I turn scattered evidence into structured data and reusable
+  software, keeping the source and the result connected.
+- MSc Finance and Accounting, Yuan Ze University, expected January 2027.
+  Five SSRN working papers under Xin-Fu Wang (王新福).
 
 ## Selected work
 
-- **Research data desk.** Find a dataset, check that it can really be downloaded, approve it, then collect and register it, with every step recorded. React interface, REST API and an MCP interface for AI assistants. The interface and a reference runtime are public.
-- **Hardware design verification.** Checks a circuit board design before it is built (KiCad electrical and design rules, schematic-to-PCB parity, parts list, fabrication files) and packages the result so it can be rebuilt and verified. The software side is complete for a reference design; no board has been fabricated yet.
-- **Research evidence workspace.** Lines up real-world sources, academic papers and existing software around the same topic, keeping the source attached to every claim.
-- **Traceability kernel.** A small, domain-neutral kernel for systems where claims, decisions and authority must stay traceable to their basis. Early version, not a production framework.
-- **Thesis data and lineage.** The reproducible data, source lineage and scripts behind my MSc thesis on Indonesia's platform economy.
+- **[Research data desk](https://github.com/Spectating101/yzu-cluster).**
+  Find a dataset, check access, approve collection and register it, with recorded
+  steps. [Public interface/demo](https://spectating101.github.io/yzu-cluster/).
+  The static demo and public reference runtime are separate from the private
+  service required for the full live workflow.
+- **[Research-evidence workspace](https://github.com/Spectating101/cite-refinery).**
+  Connect source records, academic findings and software capabilities around a
+  research question, keeping references and unresolved relationships inspectable.
+  Public implementation and documentation; hosted preview is protected.
+- **[Thesis data and source lineage](https://github.com/Spectating101/Invisible-ledger).**
+  Data, scripts and research records behind my MSc work on Indonesia's platform
+  economy. [Working papers](https://papers.ssrn.com/author=10047476).
 
-Papers: https://papers.ssrn.com/author=10047476
+Additional engineering work:
+
+- **[Hardware design verification](https://github.com/Spectating101/hardware-splicer).**
+  Checks circuit designs and packages a reproducible result. The reference design
+  has not been fabricated or bench measured.
+- **[Reusable traceability components](https://github.com/Spectating101/citation-engine).**
+  An early kernel for preserving the basis of claims, decisions and changes.
+
+## Work interests
+
+Research engineering, applied AI, Python backend and data systems, including
+financial research. Core tools: Python, SQL, FastAPI, Linux and Git; project work
+also includes React, LLM tool interfaces and data pipelines.
+
+Contact: [christstrife@gmail.com](mailto:christstrife@gmail.com).
