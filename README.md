@@ -12,13 +12,15 @@ Based in Taiwan; available from March 2027, April negotiable.
 - MSc Finance and Accounting, Yuan Ze University, expected January 2027.
   Five SSRN working papers under Xin-Fu Wang (王新福).
 
+[Résumé](https://www.cake.me/resumes/christopher-ongko) · [Professional profile](https://www.cake.me/me/christopher-ongko)
+
 ## Selected work
 
 - **[Research data desk](https://github.com/Spectating101/yzu-cluster).**
   Find a dataset, check access, approve collection and register it, with recorded
-  steps. [Public interface/demo](https://spectating101.github.io/yzu-cluster/).
-  The static demo and public reference runtime are separate from the private
-  service required for the full live workflow.
+  steps. The hosted interface currently requires authorized desk access.
+  Public code and a reference runtime are available; the full live workflow
+  requires the private companion service.
 - **[Research-evidence workspace](https://github.com/Spectating101/cite-refinery).**
   Connect source records, academic findings and software capabilities around a
   research question, keeping references and unresolved relationships inspectable.
