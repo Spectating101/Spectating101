@@ -10,7 +10,7 @@ Based in Taiwan; available from March 2027, April negotiable.
 - Across my projects, I turn scattered evidence into structured data and reusable
   software, keeping the source and the result connected.
 - MSc Finance and Accounting, Yuan Ze University, expected January 2027.
-  Five SSRN working papers under Xin-Fu Wang (王新福).
+  Working papers use the bylines Xin-Fu Wang (王新福) and Christopher Ongko.
 
 [Résumé](https://www.cake.me/resumes/christopher-ongko) · [Professional profile](https://www.cake.me/me/christopher-ongko)
 
